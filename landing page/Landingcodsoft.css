@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    border: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-image: url("th\ \(1\).jpeg");
+}
+.navbar{
+    
+    padding: 20px;
+    padding-top: 25px;
+    height: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgba(247, 248, 218, 0.873);
+    text-align: center;
+    border: 2px solid blue;
+}
+.navtext p{
+    display:inline;
+    padding: 20px;
+    justify-content: center;
+    text-align: center;
+}
+.navicon{
+    background-image: url("newpage.jpeg");
+    background-size: cover; 
+    width: 150px;
+    height: 40px;
+  
+   
+}
+.navicon img{
+    background-size: 10px;
+}
+.divicon{
+    background-color: black;
+    font-size: larger;
+    padding: 2px;
+    color: white;
+    font-weight: bold;
+}
+#new{
+    background-color: orange;
+}
+.herosec{
+    background-image: url("xxy.jpg");
+    height: 660px;
+    width: 100%;
+}
+.divone{
+    height: 500px;
+    display: flex;
+    padding: 50px;
+    height: 509px;
+   
+}
+.one{
+    width: 45%;
+    padding: 20px;
+    background-color: rgba(247, 248, 218, 0.873);
+    border: 5px solid black;
+}
+.one p{
+    font-size: 50px;
+}
+.two{
+    background-image: url("wvq.jpg");
+    background-size: cover;
+    height: 500px;
+    width: 55%;
+    border: 5px solid black;
+}
+.first{
+    height: 100px;
+    font-size: 80px;
+    padding-left: 30px;
+    color: white;
+}
+.divtwo{
+    height: 340px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(6, 6, 6);
+    text-align: center;
+}
+.second{
+   font-size: 20px;
+   padding: 60px;
+   padding-top: 70px;
+   border: 5px solid rgb(160, 160, 226);
+   border-radius: 1.5rem;
+   background-color: rgba(247, 248, 218, 0.873);
+   margin-top: 40px;
+   margin-bottom: 40px;
+   
+}
+.third{
+    font-size: 20px;
+    padding: 50px;
+    padding-top: 70px;
+    border: 5px solid rgb(160, 160, 226);
+    border-radius: 1.5rem;
+    background-color: rgba(247, 248, 218, 0.873);
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.fourth{
+    font-size: 20px;
+    padding: 50px;
+    padding-top: 70px;
+    border: 5px solid rgb(160, 160, 226);
+    border-radius: 1.5rem;
+    background-color: rgba(247, 248, 218, 0.873);
+    margin-top: 40px;
+    margin-bottom: 40px;
+ }
+ .fifth{
+    font-size: 20px;
+   padding: 50px;
+   padding-top: 70px;
+   border: 5px solid rgb(160, 160, 226);
+   border-radius: 1.5rem;
+   background-color: rgba(247, 248, 218, 0.873);
+   margin-top: 40px;
+   margin-bottom: 40px;
+ }
+ .sixth{
+    font-size: 20px;
+    padding: 50px;
+    padding-top: 70px;
+    border: 5px solid rgb(160, 160, 226);
+    border-radius: 1.5rem;
+    background-color: rgba(247, 248, 218, 0.873);
+    margin-top: 40px;
+    margin-bottom: 40px;
+ }
+ .divtwo i{
+    padding-top: 20px;
+    font-size: 70px;
+   
+ }
+ .footercontact{
+    font-size: 70px;
+    font-weight: 700;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    color: white;
+
+ }
+ .footermain{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 40px;
+    border: 5px solid rgb(160, 160, 226);
+    background-color: rgba(247, 248, 218, 0.873);
+    margin-bottom: 20px;
+ }
+ .contact p{
+    font-size: 30px;
+    padding: 5px;
+ }
+ .socialmedia i{
+    font-size: 60px;
+    padding: 10px;
+ }
+ .pop:hover{
+    transform: scale(1.3);
+ }
+ .color:hover{
+    color: blue;
+ }
